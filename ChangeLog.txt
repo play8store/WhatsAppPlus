@@ -1,1 +1,42 @@
-{'ver1':'8', 'ver2':'20', 'ver3':'\n[تحديث قاعدة] 2.20.193.9\n[حصريا]اضافة ستايل جديد للواتساب One UI Design لتفعيله من الشاشة الرئيسية > البانر العلوي\n[اضافة] إضافة ثيم افتراضي جديد (ليلي\نهاري) [ الشاشة الرئيسية > البار العلوي ]\n[اضافة] تصميم جديد لطريقة اضافة حاله عبر ستايل انستقرام\n[اضافة] تصميم جديد لستايلات بار التنقل السفلي\n[اضافة]الزر العائم بداخل المحادثات بطريقة جديده مع خيار الاخفاء والاظهار\n[اضافة]تصميم جديد للسؤال عند تفعيل خيارات (وضع ايقاف النت، الوضع الليلي\نهاري)\n[اضافة]تحريك الاسم تلقائيا في البار العلوي في حال كان طويل\n[اضافة]زر ايقاف النت سيعطي اشارة نبض في حال كان مفعل\n[اضافة]خيارات الوان لشكل حالات الانستقرام\n[اصلاح]  \n[اصلاح] مشكله عدم ظهور صورة بجانب فقاعه الوسائط في المجموعات\n[اصلاح] عدم اختفاء زر ايقاف النت عن الواتساب والوضع الليلي\النهاري في صفحة المجموعات\n[اصلاح] مشاكل بار التنقل السفلي مع واجهة اللغة العربية\n[ملاحظة] ميزة الترجمه داخل المحادثات تحتاج الى تثبيت برنامج (مترجم جوجل)\n' , 'dli':'https://www.play8store.com/2019/02/download-4-copies-whatsapp-plus-abo-sadam-apk-2019.html'}
+{"version_code":204309003,"content":"
+<p>تحديث 8.79 (Update)</p>
+
+<li>حصرياً إضافة واجهات جديدة ومن ضمنها واجهة One UI Design</li>
+<li>إضافة ثيم افتراضي جديد (ليلي\نهاري)</li>
+<li>إضافة تصاميم جديدة لستايل حالات إنستقرام</li>
+<li>إضافة تصميم جديد لطريقة اضافة حاله عبر ستايل إنستقرام</li>
+<li>إضافة تصميم جديد لستايلات بار التنقل السفلي</li>
+<li>إضافة تصميم جديد للسؤال عند تفعيل خيارات (وضع الطيران، الوضع ليلي\نهاري)</li>
+<li>إضافة تحريك الاسم تلقائياً في البار العلوي في حال كان طويل</li>
+<li>إضافة زر الطيران سيعطي اشارة نبض في حال كان مفعل</li>
+<li>إضافة خيارات الوان لشكل حالات الإنستقرام</li>
+<li>إضافة شكل جديد للزر العائم مع امكانية إخفاء الزر وإظهاره من الإضافات والخصائص > شاشة المحادثة</li>
+<li>تحسين زيادة عدد أحرف الحالة إلى أكثر من 700 حرف</li>
+<li>إصلاح مشكله عدم ظهور صورة بجانب فقاعة الوسائط في المجموعات</li>
+<li>إصلاح عدم إختفاء زر الطيران والوضع ليلي\نهاري في صفحة المجموعات</li>
+<li>إصلاح مشاكل بار التنقل السفلي مع واجهة اللغة العربية</li>
+<li>تحديث الترجمات</li>
+<li>ملاحظة ميزة الترجمة داخل المحادثات تحتاج الى تثبيت تطبيق (ترجمة جوجل)</li>
+<li>تحسينات وإصلاحات كثيرة أكتشفها بنفسك</li>
+
+<li> Exclusively adding new interfaces, including One UI Design </li>
+<li> Add a new default theme (day / night) </li>
+<li> Adding new Instagram style designs </li>
+<li> Adding a new design to Instagram style </li>
+<li> New design for bottom navigation bar styles </li>
+<li> Adding a new question design when activating options (Airplane Mode, Day / Night Mode) </li>
+<li> Add an automatic name move in the upper bar if it is long </li>
+<li> Adding a fly button will give a pulse if it is enabled </li>
+<li> Add color options for Instagram status </li>
+<li> Add a new shape to the floating button with the ability to hide and show the button from the additions and features> Conversation screen </li>
+<li> Enhanced to more than 700 case characters </li>
+<li> Fixed an issue where a picture was not displayed next to the Media Bubble in Groups </li>
+<li> Fix the Flying button and Day / night mode not missing in the Groups page </li>
+<li> Fixed bottom navigation bar issues with Arabic interface </li>
+<li> Update translations </li>
+<li> Note the translation feature within conversations requires installing the (Google Translate) application </li>
+<li> Lots of bug fixes and improvements </li>
+
+","url":"https://www.play8store.com/2019/02/download-4-copies-whatsapp-plus-abo-sadam-apk-2019.html"
+
+}
