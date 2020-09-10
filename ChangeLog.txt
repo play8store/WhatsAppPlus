@@ -1,5 +1,5 @@
-{"version_code":204309003,"content":"
-<p>تحديث 8.79 (Update)</p>
+{"version_code":9999999,"content":"
+<p>تحديث 8.75 (Update)</p>
 
 <li>حصرياً إضافة واجهات جديدة ومن ضمنها واجهة One UI Design</li>
 <li>إضافة ثيم افتراضي جديد (ليلي\نهاري)</li>
